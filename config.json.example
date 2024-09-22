@@ -1,0 +1,5 @@
+{
+    "token": "",
+    "guild_id": "",
+    "database": "", # MongoDB
+}
